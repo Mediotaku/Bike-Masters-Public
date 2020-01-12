@@ -1,0 +1,18 @@
+$$$$$$$\  $$\ $$\                       $$\      $$\                       $$\                                   
+$$  __$$\ \__|$$ |                      $$$\    $$$ |                      $$ |                                  
+$$ |  $$ |$$\ $$ |  $$\  $$$$$$\        $$$$\  $$$$ | $$$$$$\   $$$$$$$\ $$$$$$\    $$$$$$\   $$$$$$\   $$$$$$$\ 
+$$$$$$$\ |$$ |$$ | $$  |$$  __$$\       $$\$$\$$ $$ | \____$$\ $$  _____|\_$$  _|  $$  __$$\ $$  __$$\ $$  _____|
+$$  __$$\ $$ |$$$$$$  / $$$$$$$$ |      $$ \$$$  $$ | $$$$$$$ |\$$$$$$\    $$ |    $$$$$$$$ |$$ |  \__|\$$$$$$\  
+$$ |  $$ |$$ |$$  _$$<  $$   ____|      $$ |\$  /$$ |$$  __$$ | \____$$\   $$ |$$\ $$   ____|$$ |       \____$$\ 
+$$$$$$$  |$$ |$$ | \$$\ \$$$$$$$\       $$ | \_/ $$ |\$$$$$$$ |$$$$$$$  |  \$$$$  |\$$$$$$$\ $$ |      $$$$$$$  |
+\_______/ \__|\__|  \__| \_______|      \__|     \__| \_______|\_______/    \____/  \_______|\__|      \_______/ 
+
+BIKE MASTERS
+
+- Authors:
+    Alberto Benavent Ramón (http://abramaran.com/)
+    José Vicente Tomás Pérez (http://mediotaku.xyz/)
+    Eduardo Gómez Martínez (@Edugomez98)
+
+This program is released under a GNU General Public License Version 3. It uses CPCTelera library,
+published under the same GNU GPL with Copyright (C) 2018 ronaldo / Fremos / Cheesetea / ByteRealms (@FranGallegoBR)
